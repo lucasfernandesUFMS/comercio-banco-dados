@@ -7,7 +7,6 @@ Este repositório contém um script SQL com a modelagem de um banco de dados sim
 - `banco_comercio.sql` → arquivo com todos os comandos SQL necessários para:
   - criar as tabelas `produtos` e `pedidos`
   - inserir três registros em cada uma
-- `diagrama-er.png` → diagrama Entidade-Relacionamento simples mostrando a relação entre as tabelas
 
 ## 🧱 Estrutura do banco
 
